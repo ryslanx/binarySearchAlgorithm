@@ -1,0 +1,2 @@
+# binarySearchAlgorithm
+The algorithm checks if the target number can be found in the shifted array. An example of the original array = {-2, 3, 4, 7, 8, 9, 11, 13}. Shifted arrays : {13, -2, 3, 4, 7, 8, 9, 11}; {8, 9, 11, 13, -2, 3, 4, 7};  Useful links to get more information about this algorithm implementation:  https://www.youtube.com/watch?v=6ysjqCUv3K4 and https://stackoverflow.com/questions/46022118/shift-array-to-the-left
